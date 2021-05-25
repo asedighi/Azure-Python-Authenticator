@@ -1,0 +1,9 @@
+azure-functions
+azure-keyvault==1.1.0
+msal==1.0.0; python_full_version >= "3.6.0"
+msrest==0.6.21; python_full_version >= "3.6.0"
+msrestazure==0.6.4; python_full_version >= "3.6.0"
+azure-cli-core==2.19.1; python_full_version >= "3.6.0"
+azure-cli-telemetry==1.0.6; python_full_version >= "3.6.0"
+azure-common==1.1.26; python_full_version >= "3.6.0"
+jwt
